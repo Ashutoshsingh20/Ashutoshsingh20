@@ -10,6 +10,33 @@ I own the work from the first scope discussion to the code, deployment and hando
 
 [**Discuss a project**](https://sutrifytech.com/contact) · [Client work](https://sutrifytech.com/work) · [LinkedIn](https://www.linkedin.com/in/ashutosh-singh-sutrify/) · [ceo@sutrifytech.com](mailto:ceo@sutrifytech.com)
 
+## About me
+
+I'm **Ashutosh Singh**, usually **Ashu**, a software engineer and the founder of Sutrify, based in Greater Noida, India. I'm studying B.Tech Computer Science at NIET Autonomous while building client software and my own projects.
+
+Much of my learning has happened through building outside the classroom. I've worked across web development, backend systems, databases, cloud deployment, automation, Android and AI. Following a problem through these layers is what interests me: how information enters a system, how decisions are made, where it can fail and what the person using it needs next.
+
+Sutrify grew out of website development and client work. Working with business owners changed the questions I asked. A website enquiry needs a follow-up. A dashboard needs dependable data. An automation needs someone to handle the exceptions. That pushed my work towards complete business systems: platforms, internal tools, workflows and integrations that fit how a business actually operates.
+
+Being a founder also means learning the work around the code. I'm developing my skills in discovery, scoping, pricing, proposals, client communication and delivery management. My aim is to build Sutrify into a dependable software company, with trust earned through work people can inspect and use.
+
+I learn best by building something, testing it, tracing what breaks and understanding why. I enjoy difficult technical problems, especially where software meets devices, operating systems or real-world processes. Ownership matters to me: I want to understand the system well enough to maintain it and explain the decisions behind it.
+
+Away from project work, I enjoy experimenting with devices and rooted Android, music, FPS games and futuristic interfaces. I'm also interested in human behaviour, psychology and decision-making. I like conversations about why people and systems work the way they do.
+
+### What I'm building towards
+
+- **Sutrify:** a software business built around direct client relationships, reliable delivery and useful business systems.
+- **Sutra:** my long-term personal AI companion project. I'm exploring memory, context, voice and actions on Android, with the aim of making an assistant useful across everyday tasks. It is an ongoing development project.
+- **AI workflows and systems:** experiments with agents, automation and integrations, alongside deeper learning in backend architecture, security and deployment.
+
+### What matters to me
+
+- **Evidence:** describe what has actually been built and tested, and be clear about what still needs work.
+- **Understanding:** trace a problem to its cause and learn how the underlying system behaves.
+- **Ownership:** take responsibility for the scope, implementation and handover.
+- **Usefulness:** make technical decisions around the people who have to use and maintain the software.
+
 ## Building Sutrify
 
 | Build | Automate | Improve |
@@ -81,8 +108,6 @@ The covers are case-study artwork. Each linked record explains the actual scope,
 | Data and deployment | PostgreSQL, Supabase, Cloudflare Workers, D1, R2, Docker, Git |
 | Mobile and systems | Kotlin, Android, SwiftUI |
 | Integration | REST APIs, AI APIs, workflow automation |
-
-Based in Greater Noida, India. Studying B.Tech Computer Science at NIET alongside building Sutrify.
 
 ---
 
