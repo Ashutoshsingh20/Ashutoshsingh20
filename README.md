@@ -30,6 +30,10 @@ Away from project work, I enjoy experimenting with devices and rooted Android, m
 - **Sutra:** my long-term personal AI companion project. I'm exploring memory, context, voice and actions on Android, with the aim of making an assistant useful across everyday tasks. It is an ongoing development project.
 - **AI workflows and systems:** experiments with agents, automation and integrations, alongside deeper learning in backend architecture, security and deployment.
 
+<a href="https://sutrifytech.com/work/sutra"><img src="assets/sutra-cover.webp" width="100%" alt="Sutra, my phone-first AI companion project in development" /></a>
+
+[Read the Sutra engineering record →](https://sutrifytech.com/work/sutra)
+
 ### What matters to me
 
 - **Evidence:** describe what has actually been built and tested, and be clear about what still needs work.
@@ -76,6 +80,20 @@ Away from project work, I enjoy experimenting with devices and rooted Android, m
 <p><sub>Client website · Live</sub></p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://sutrifytech.com/work/niet-unified-erp"><img src="assets/niet-unified-erp-cover.webp" width="480" alt="Illustrated NIET Unified ERP architecture; institutional acceptance pending" /></a>
+<h3><a href="https://sutrifytech.com/work/niet-unified-erp">NIET Unified ERP</a></h3>
+<p>An on-premise institutional platform with scoped access, registration, approvals and auditable records.</p>
+<p><sub>Client engagement · In development · Institutional acceptance pending</sub></p>
+</td>
+<td width="50%" valign="top">
+<h3>Inside the ERP</h3>
+<p>TypeScript and PostgreSQL foundations connecting role-scoped workspaces, maker-checker decisions and transactional outbox processing.</p>
+<p>Internal demonstrations use synthetic data. Institutional policies, external integrations and production acceptance remain pending.</p>
+<p><a href="https://github.com/Ashutoshsingh20/niet-unified-erp">Inspect the public architecture and source →</a></p>
+</td>
+</tr>
 </table>
 
 The covers are case-study artwork. Each linked record explains the actual scope, implementation and limits.
@@ -86,12 +104,11 @@ The covers are case-study artwork. Each linked record explains the actual scope,
 
 | Project | Engineering focus | Current scope |
 | --- | --- | --- |
-| [**NIET Unified ERP**](https://github.com/Ashutoshsingh20/niet-unified-erp) | TypeScript, PostgreSQL, scoped authorization, governed workflows, audit records and transactional outbox | On-premise platform in development. Institutional acceptance pending. |
 | [**SmartEvent AI**](https://github.com/Ashutoshsingh20/SmartEvent-AI) | Firebase authentication, event registration, QR tickets, camera check-in and Firestore listeners | Engineering demonstration. Payment flow is simulated. |
 | [**Argent Sentinel**](https://github.com/Ashutoshsingh20/argent-sentinel) | FastAPI telemetry ingestion, TabNet trust inference, background model training and enforcement simulation | Defensive-security research prototype. No production security certification claimed. |
-| [**Kalpana Drive**](https://github.com/Ashutoshsingh20/Kalpana_Drive) | SwiftUI iPad dashboard, safety state machine, provider abstractions and mock services | Phase 1 foundation. Phone and vehicle integrations remain future work. |
+| [**Sutra Drive**](https://github.com/Ashutoshsingh20/Sutra_Drive) | SwiftUI iPad dashboard, safety state machine, provider abstractions and mock services | Phase 1 foundation. Phone and vehicle integrations remain future work. |
 
-[ERP architecture](https://github.com/Ashutoshsingh20/niet-unified-erp/blob/main/PHASE_0_ARCHITECTURE.md) · [Event-platform write-up](https://sutrifytech.com/work/event-management-platform) · [Security research write-up](https://sutrifytech.com/work/argent-sentinel) · [Drive architecture](https://github.com/Ashutoshsingh20/Kalpana_Drive/blob/main/documentation/ARCHITECTURE.md)
+[ERP architecture](https://github.com/Ashutoshsingh20/niet-unified-erp/blob/main/PHASE_0_ARCHITECTURE.md) · [Event-platform write-up](https://sutrifytech.com/work/event-management-platform) · [Security research write-up](https://sutrifytech.com/work/argent-sentinel) · [Drive architecture](https://github.com/Ashutoshsingh20/Sutra_Drive/blob/main/documentation/ARCHITECTURE.md)
 
 ## How I work
 
