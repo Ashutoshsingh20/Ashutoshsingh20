@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="330" viewBox="0 0 1100 330" role="img" aria-labelledby="title desc">
+<title id="title">Ashutosh Singh, Founder and Lead Engineer at Sutrify</title>
+<desc id="desc">An ivory and rust Sutrify banner with a continuous thread connecting a brief, a build and a handover.</desc>
+<rect width="1100" height="330" rx="8" fill="#f2efe7"/>
+<rect width="7" height="330" fill="#af4935"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="48" y="54" font-size="16" letter-spacing="3" fill="#af4935">SUTRIFY / FOUNDER-LED ENGINEERING</text>
+<text x="46" y="124" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#1d1d1a">Ashutosh Singh</text>
+<text x="48" y="164" font-size="22" fill="#34342e">Founder &amp; Lead Engineer</text>
+<text x="48" y="226" font-size="23" fill="#1d1d1a">Websites. Software. Automation.</text>
+<text x="48" y="286" font-size="16" fill="#6b685f">sutrifytech.com</text>
+</g>
+<g fill="none" stroke="#b7b1a5" stroke-width="1.4">
+<rect x="766" y="80" width="274" height="54" rx="4"/>
+<rect x="766" y="159" width="274" height="54" rx="4"/>
+<rect x="766" y="238" width="274" height="54" rx="4"/>
+</g>
+<path d="M794 107 H726 Q704 107 704 130 V162 Q704 186 726 186 H794 M794 186 H726 Q704 186 704 210 V241 Q704 265 726 265 H794" fill="none" stroke="#af4935" stroke-width="2.4"/>
+<g fill="#af4935"><circle cx="794" cy="107" r="5"/><circle cx="794" cy="186" r="5"/><circle cx="794" cy="265" r="5"/></g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#34342e"><text x="818" y="113">Understand the brief</text><text x="818" y="192">Build the system</text><text x="818" y="271">Hand it over</text></g>
+</svg>
